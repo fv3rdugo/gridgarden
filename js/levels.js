@@ -955,7 +955,7 @@ var levels = [
       'no': '<p>Hagen din ser flott ut. Her har du laget en sti på 50 pixler i bunnen av hagen din og fylt resten med gulrøtter.</p><p>Uheldigvis har 20% av gulrøttene dine til venstre blitt overgrodd av ugress. Bruk CSS grid en siste gang for å hjelpe hagen din.</p>',
       'pt-pt': '<p>A tua horta está a ficar genial! Desta vez deixaste um caminho de 50 pixels no fundo da horta, e preencheste o resto com cenouras. Infelizmente, 20% das tuas cenouras à esquerda foram invadidas por ervas daninhas. Utiliza a CSS Grid uma última vez para tratares da tua horta.</p>',
       'bg': '<p>Вашата градина изглежда прекрасно. Тук сте оставили пътека от 50 пиксела на дъното на Вашата градина, а останалото пространство е покрито с моркови.</p><p>За жалост, левите 20% от Вашите моркови са обраснали с плевели. Използвайте CSS grid още един последен път, за да излекувате Вашата градина.</p>',
-      'ca': '<p>El teu jardí té un aspecte genial. Aquesta vegada hem deixat un camí de 50 píxels d\'amplada al fons del teu jardí i s\'ha emplenat la resta amb pastanagues.</p><p>Malauradament, el 20%  esquerra de les teves pastanagues han estat envaidesper males herbes. Utilitza CSS Grid una darrera vegadaper tractar el teu jardí.</p>',
+      'ca': '<p>El teu jardí té un aspecte genial. Aquesta vegada hem deixat un camí de 50 píxels d\'amplada al fons del teu jardí i s\'ha emplenat la resta amb pastanagues.</p><p>Malauradament, el 20%  esquerra de les teves pastanagues han estat envaides per males herbes. Utilitza CSS Grid una darrera vegada per tractar el teu jardí.</p>',
     },
     board: 'wc',
     classes: {'#plants': 'grid-template-2'},
